@@ -1,0 +1,36 @@
+h1{
+    color: brown;
+}
+h3{
+    color: darkgreen;
+}
+.steps_block{
+     background-color: lavender;
+}
+#title_recipe_naan{
+    text-align: center;
+    font-family: "Century Schoolbook";
+    font-size: 20px;
+}
+.intro_naan_recipe{
+    font-size: 16px;
+    font-family: "Century Schoolbook";
+    background-image: url("img_2.png");
+}
+.table_row{
+    font-family: "Century Schoolbook";
+    font-size: 16px;
+    color: brown;
+    text-align: center;
+}
+.end_recipe{
+    font-size: 18px;
+    font-family: "Showcard Gothic";
+    color: brown;
+    text-align: center;
+}
+.heading_steps_follow{
+    color: brown;
+    text-align: center;
+    font-size: 18px;
+}
